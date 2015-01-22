@@ -1,6 +1,6 @@
 """
 Saves and loads a set of particles.
-The 'write_set_to_file' and 'read_set_from_file' functionso can hadle
+The 'write_set_to_file' and 'read_set_from_file' functions can handle
 files in a variety of formats.
 """
 
